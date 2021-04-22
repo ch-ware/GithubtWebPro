@@ -10,10 +10,10 @@ Window：C:\Windows\System32\drivers\etc\hosts 或r Linux：/etc/hosts
 
 然放入一下两个 IP 地址：
 
-# GitHub Start 
+注释# GitHub Start 
 140.82.114.4 github.com
 199.232.69.194 github.global.ssl.fastly.net
-# GitHub End
+注释# GitHub End
 
 存盘退出
 
